@@ -1,10 +1,12 @@
-# Проект «Сложно сосредоточиться»  
+# Страница блога «Сложно сосредоточиться»  
+___
+Вёрстка [макета](https://www.figma.com/design/lCqDbWjgllgJtb2hmCqfyX/%236-Сложно-сосредоточиться?node-id=0-1&t=PWj5YFDdz1WL3ZXl-0) одностраничного сайта с переключением темы
 
-Вёрстка [макета](https://www.figma.com/design/lCqDbWjgllgJtb2hmCqfyX/%236-Сложно-сосредоточиться?node-id=0-1&t=PWj5YFDdz1WL3ZXl-0) одностраничного сайта с переключением темы в рамках курса по frontend-разработке от Яндекс Практикума
+https://github.com/user-attachments/assets/b82bce64-3b72-4a42-8169-a5fd366e0d6b
 
-### Деплой  
-[ссылка на GitHub Pages](https://beschetnova.github.io/slozhno-sosredotochitsya/)  
+Посмотреть проект можно [по ссылке на GitHub Pages](https://github.com/beschetnova/slozhno-sosredotochitsya_blog)  
 
+___
 ### Технологии
 * HTML
 * CSS
@@ -15,6 +17,7 @@
 * использование медиазапросов
 * оптимизация и стилизация svg-изображений
 
+*Проект выполнен в рамках курса "Фронтенд-разработчик" от Яндекс Практикума*
 
 
 
