@@ -4,7 +4,7 @@ ___
 
 https://github.com/user-attachments/assets/b82bce64-3b72-4a42-8169-a5fd366e0d6b
 
-Посмотреть проект можно [по ссылке на GitHub Pages](https://github.com/beschetnova/slozhno-sosredotochitsya_blog)  
+Посмотреть проект можно [по ссылке на GitHub Pages]([https://github.com/beschetnova/slozhno-sosredotochitsya_blog](https://beschetnova.github.io/slozhno-sosredotochitsya_blog/))  
 
 ___
 ### Технологии
